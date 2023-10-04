@@ -1,4 +1,4 @@
-# Hi there Pooja Bongale née Nayak 
+# Hi there 👋 Pooja Bongale née Nayak 
 
 ### Connect
 > How to reach me ~ 📫nayakpooja5959@gmail.com 
@@ -7,6 +7,17 @@
 
 ### About
 > Love : 🏕️Camping, 🥾 Hiking, 🌱 Gardening, 🧳Travelling
+
+### Certifications
+> [AWS Certified DevOps Engineer – Professional](https://www.credly.com/badges/0b5430a1-6659-4a3f-973a-68cb77df0c1f/public_url)
+> [CKA: Certified Kubernetes Administrator](https://www.credly.com/badges/7dd8aeb5-23d6-48ce-bd4f-341377c8b445/public_url)
+> [HashiCorp Certified: Terraform Associate (002)](https://www.credly.com/badges/12729025-7f06-4599-b831-b4a03703f892/public_url)
+> [AWS Certified Developer – Associate DVA C01](https://www.credly.com/badges/c680db57-1539-468f-9b9e-4e73fc9aabf8/public_url)
+> [AWS Certified Solutions Architect - Associate SAA-C03](https://www.credly.com/badges/d85dbbad-068a-4fa9-b668-e8f23197118b/public_url)
+> [Google Cloud Certified - Associate Cloud Engineer](https://www.credential.net/9b1bab48-7809-447e-945c-eaa14cc525b4?key=c4f804f41db1de338cee38f093f14318eb73032ac4211e1d07b772582aa13f22)
+> [Google Cloud Certified - Cloud Digital Leader](https://www.credential.net/9f1e5cda-c664-48d1-b246-11b69b484748?key=fc1ceb31db50723e18b5bd651a4df21a98400947598a0e7af155c372d507a427&record_view=true)
+> [Certified Blockchain Developer V2](https://www.credential.net/978e00b2-82d4-4852-b52f-2955f7673d74#gs.6inqta)
+> [Certified Blockchain Expert - V2](https://www.credential.net/d36d1a7d-f7be-488f-b528-b630dede5063#gs.6inqvz)
 
 ### SKills
 
