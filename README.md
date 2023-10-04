@@ -1,7 +1,7 @@
 # Hi there 👋 Pooja Bongale née Nayak 
 
 ### Connect
-> How to reach me ~ 📫nayakpooja5959@gmail.com 
+> How to reach me ~ 📫92poojanayak@gmail.com 
 
 > LinkedIn ~ [Pooja Nayak](https://www.linkedin.com/in/nayak-pooja/)
 
