@@ -6,7 +6,7 @@
 > LinkedIn ~ [Pooja Nayak](https://www.linkedin.com/in/nayak-pooja/)
 
 ### About
-## Love : 🏕️Camping, 🥾 Hiking, 🌱 Gardening, 🧳Travelling
+> Love : 🏕️Camping, 🥾 Hiking, 🌱 Gardening, 🧳Travelling
 
 ### SKills
 
